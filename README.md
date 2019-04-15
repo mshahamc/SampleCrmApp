@@ -24,7 +24,7 @@
 	* Click the Is Default Layout check box
 	* Save
 
-3. Edit Call Centers
+* Edit Call Centers
     * Once the App is installed, users must be added to the Salesforce Call Center:
 	* Log into Salesforce with administrative privileges
 	* Navigate to Setup
