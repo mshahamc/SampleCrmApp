@@ -73,13 +73,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-# Running Sample CRM App locally:
+## Running Sample CRM App locally:
 * Open a terminal window and navigate inside the folder that contains the Sample CRM App and enter these commands.
 * cd SampleCRMApp/
 * npm start
 * The SampleCRMApp will run on localhost:3000
 
-# Creating the Applications in Studio
+## Creating the Applications in Studio
 
 * Open the creators studio (https://studio.contactcanvas.com) and navigate to the Edit Apps Section
 * Create a new app with the name “SampleCRMApp”
@@ -87,7 +87,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 * Set the position to 'Center (no tabs)'
 
 
-# Integrating with SalesForce
+## Integrating with SalesForce
 
 * Install the DaVinci App for SalesForce (https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0g000000RaCh)
 * Edit Softphone Layout: 
